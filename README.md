@@ -15,7 +15,7 @@ This is the environment file for all of the notebooks and code that I will be pu
   * `CSO_CA.txt`
   * `CSO_UT.txt`
 
-These txt files containing the raw CSO data. They are needed to run many of the Notebooks. `CSOgeodata.txt` is the entire CSO data set pulled from the database on June 28th, 2021. `CSO_CA` and `CSO_UT` are region specific CSO data sets for California and Utah respectively.
+These txt files containing the raw CSO data. They are needed to run many of the Notebooks. `CSOgeodata.txt` is the entire CSO data set pulled from the database on June 28th, 2021, this however cannot be publicly avaialbe. `CSO_CA` and `CSO_UT` are region specific CSO data sets for California and Utah respectively.
 
 ## Jupyter Notebooks:
   * `CSOQaQcSPRING.ipynb`
